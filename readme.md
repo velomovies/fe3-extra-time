@@ -48,7 +48,7 @@ Next to all links I read I also put some extra time in helping others. With asse
 
 # My duck
 
-My extra time went ofcourse into talking to my duck. I wanted to know him better. And yes, **him**. He is named Yellow Beard. And you have to know how much he knows about code. And especially D3. That is insane. We talked about his past. 
+My extra time went ofcourse into talking to my duck. I wanted to know him better. And yes, **him**. He is named Yellow Beard. And you have to know how much he knows about code. And especially D3. That is insane. I talked with him about his past and how he became so good in writing code.
 
 Yellow Beard was a notorious English pirate who operated around the West Indies and the eastern coast of Britain's North American colonies. He was born in Amsterdam, England. He has been a sailor on privateer ships during Queen Anne's War before settling on the Bahamian island of New Providence, a base for Captain Benjamin Hornigold, whose crew Teach joined sometime around 2016. Hornigold placed him in command of a sloop he had captured, and the two engaged in numerous acts of piracy. Their numbers were boosted by the addition to their fleet of two more ships, one of which was commanded by Stede Bonnet, but towards the end of 2017 Hornigold retired from piracy. With his last trip he anded up in the Netherlands, also Yellow beard was with him. Yellow Beard had no job anymore after Hornigold. That is when Yellow Beard got into code. After a few months Javascripting and using D3 he came in the hands of the well known and great leader Titus Wormer. He would then pass Yellow Beard through to me.
 
