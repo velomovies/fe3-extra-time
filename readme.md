@@ -1,18 +1,23 @@
-# ![Extra Time][banner]
+## Extra time
 
-This repository can be forked for [**extra time**][et] of [frontend 3][fe3]
-at [**@CMDA**][cmda].
+In this document I show how I spend the extra 20 hours for frontend 3. The most time is spend on research for the assessments and  assignments. Next to that I did get to learn my duck very well. Bellow you can see an extensive explanation of what I did.
 
-## TODO
+## Spending my time (well?!)
 
-*   [ ] Replace this document in your fork with your own readme!
+For this course I spend my time on a few things. Below you can find a full list.
 
-[banner]: https://cdn.rawgit.com/cmda-fe3/logo/9fd877f/banner-extra-time.svg
+Before I started this course I had to get to know javascript again. In the last half year I didn't use any code. This because of a design intership and an holiday without working on code. The bootcamp of the first class did help me alot, but I wanted to be better prepared. 
 
-[et]: https://github.com/cmda-fe3/course-17-18/blob/master/participation.md#extra-time
+For preparation of the class I did some research in javascripting. The research consisted of reviewing code I wrote earlier. I went over every line and looked if I understand everything. Next to that I read the important parts of the [You don't know JS](https://www.amazon.com/You-Dont-Know-JS-Going/dp/1491924462) book.
 
-[fe3]: https://github.com/cmda-fe3
+# Where did my time go
 
-[cmda]: https://github.com/cmda
+Next to reading about code I wanted to learn D3 better. Before the class I didn't really know what to expect, but then it turned out to be more difficult then I thought. 
 
-[pages]: https://pages.github.com
+For the first assignments I did some research in D3 to learn the basics. A website I read was:
+
+* [A D3 introduction](https://d3js.org/#introduction)
+
+Next to this I read some code already wrote. The code I read was mostly of Mike Bostock.
+
+
